@@ -1,1 +1,1 @@
-select * from employee WHERE id=1;
+select * from employee;
